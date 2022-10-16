@@ -1,0 +1,11 @@
+.agignore
+.baseDir.ts
+.DS_Store
+.env
+.tscache
+.vscode/
+.idea/
+downloads/
+node_modules*
+package-lock.json
+
